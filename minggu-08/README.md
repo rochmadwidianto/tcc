@@ -1,2 +1,2 @@
-# tcc
-Praktikum Teknologi Cloud Computing
+
+**Docker images** adalah sebuah template yang bersifat read only. Template ini sebenarnya adalah sebuah OS atau OS yang telah diinstall berbagai aplikasi. Docker images berfungsi untuk membuat docker container, dengan hanya 1 docker images kita dapat membuat banyak docker container
